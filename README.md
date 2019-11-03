@@ -20,3 +20,7 @@ The image runs `onionshare` on the `tmp` directory, so make sure to map somethin
 ```
 docker run -ti -v `pwd`:/tmp d3npa:onionshare
 ```
+
+## TODO
+[ ] Support CLI options for OnionShare
+[ ] Put up an image on DockerHub
